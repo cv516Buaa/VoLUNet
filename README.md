@@ -27,13 +27,13 @@
 ## Introduction
 This repo is the implementation of "A Voronoi Density based Locally Unique Classification Network for Fine-grained Mulitilabel Learning"
 
-<p align="left">
+<p align="center">
   <img src="images/VoLUNet.png" width="720">
 </p>
 
 Voronoi Density based Superpixel Generation Module:
 
-<p align="left">
+<p align="center">
   <img src="images/VDSM.png" width="360">
 </p>
 

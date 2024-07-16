@@ -1,12 +1,12 @@
 # VoLUNet
 
-The code is for the paper "A Voronoi Density based Locally Unique Classification Network for Fine-grained Mulitilabel Learning"
+This repo is the implementation of "A Voronoi Density based Locally Unique Classification Network for Fine-grained Mulitilabel Learning"
 
 <p align="left">
   <img src="images/VoLUNet.png" width="720">
 </p>
 
-The voronoi density based superpixel generation module designed in this paper is shown in next figure.
+Voronoi Density based Superpixel Generation Module:
 
 <p align="left">
   <img src="images/VDSM.png" width="360">

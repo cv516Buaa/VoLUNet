@@ -25,8 +25,8 @@ Voronoi Density based Superpixel Generation Module:
 Please prepare related datasets: 
 
 - TreeSatAI: [https://zenodo.org/records/6780578](https://zenodo.org/records/6780578)
-- GeoLifeCLEF: [https://cocodataset.org/#download](https://www.kaggle.com/competitions/geolifeclef-2024)
-- FathomNet: [https://cocodataset.org/#download](https://www.kaggle.com/competitions/fathomnet-out-of-sample-detection)
+- GeoLifeCLEF: [https://www.kaggle.com/competitions/geolifeclef-2024](https://www.kaggle.com/competitions/geolifeclef-2024)
+- FathomNet: [https://www.kaggle.com/competitions/fathomnet-out-of-sample-detection](https://www.kaggle.com/competitions/fathomnet-out-of-sample-detection)
 
 ### Train and Test
 

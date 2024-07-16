@@ -18,7 +18,13 @@
     <strong>Lijiang Chen</strong></a>
     <br />
 <p align="center">
+ </p>
 
+
+
+
+
+## Introduction
 This repo is the implementation of "A Voronoi Density based Locally Unique Classification Network for Fine-grained Mulitilabel Learning"
 
 <p align="left">

@@ -1,4 +1,23 @@
-# VoLUNet
+
+<p align="center">
+  <h1 align="center">A Voronoi Density based Locally Unique Classification Network for Fine-grained Mulitilabel Learning</h1>
+  <p align="center">
+
+
+   <br />
+    <strong>Binghao Liu</strong></a>
+    ·
+    <strong>Qi Zhao</strong></a>
+    ·
+    <strong>Chunlei Wang</strong></a>
+    ·
+    <strong>Meng Li</strong></a>    
+    ·
+    <strong>Hongbo Xie</strong></a>    
+    ·
+    <strong>Lijiang Chen</strong></a>
+    <br />
+<p align="center">
 
 This repo is the implementation of "A Voronoi Density based Locally Unique Classification Network for Fine-grained Mulitilabel Learning"
 

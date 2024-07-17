@@ -53,6 +53,8 @@ Please prepare related datasets:
 - GeoLifeCLEF: [https://www.kaggle.com/competitions/geolifeclef-2024](https://www.kaggle.com/competitions/geolifeclef-2024)
 - FathomNet: [https://www.kaggle.com/competitions/fathomnet-out-of-sample-detection](https://www.kaggle.com/competitions/fathomnet-out-of-sample-detection)
 
+The data split files of these datasets can be found at [https://drive.google.com/drive/folders/1Bceu-wIOO4q3Q5wChkF8LmUc0A9YVgZq?usp=sharing](https://drive.google.com/drive/folders/1Bceu-wIOO4q3Q5wChkF8LmUc0A9YVgZq?usp=sharing)
+
 ### Train and Test
 
 + Use the following command for training with TResNet-L

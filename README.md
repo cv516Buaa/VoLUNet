@@ -11,9 +11,7 @@
     ·
     <strong>Chunlei Wang</strong></a>
     ·
-    <strong>Meng Li</strong></a>    
-    ·
-    <strong>Hongbo Xie</strong></a>    
+    <strong>Meng Li</strong></a>     
     ·
     <strong>Lijiang Chen</strong></a>
     <br />
